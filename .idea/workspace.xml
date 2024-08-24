@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0ee667-2cf4-407b-b0bf-fa1b85212e93" name="Changes" comment="Acerto de persistência e variáveis de ambiente" />
+    <list default="true" id="1a0ee667-2cf4-407b-b0bf-fa1b85212e93" name="Changes" comment="Acerto do ambiente">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Episodio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/repository/SerieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/repository/SerieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Episodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Episodio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/principal/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/principal/Principal.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,15 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ScreenmatchApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Familia Matos/Google Drive/Cursos Alura/Programação/Spring/screenmatch",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ScreenmatchApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Familia Matos/Google Drive/Cursos Alura/Programação/Spring/screenmatch&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.alura.screenmatch.service.traducao" />
@@ -107,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723506771856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Acerto do ambiente">
+      <option name="closed" value="true" />
+      <created>1723508435566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723508435566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -139,6 +160,7 @@
     <MESSAGE value="Retirada da chave do Chat GPT" />
     <MESSAGE value="Acerto de persistência e variáveis de ambiente" />
     <MESSAGE value="Revert &quot;Modelando a classe série&quot;&#10;&#10;This reverts commit 3ff355c1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Modelando a classe série&quot;&#10;&#10;This reverts commit 3ff355c1" />
+    <MESSAGE value="Acerto do ambiente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acerto do ambiente" />
   </component>
 </project>
