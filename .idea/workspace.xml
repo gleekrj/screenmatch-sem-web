@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0ee667-2cf4-407b-b0bf-fa1b85212e93" name="Changes" comment="Acerto do ambiente">
+    <list default="true" id="1a0ee667-2cf4-407b-b0bf-fa1b85212e93" name="Changes" comment="Começo do uso de banco de dados para inclusão de séries e buscas posteriores. Utilização de derived queries.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Categoria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/model/Serie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/principal/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/repository/SerieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/repository/SerieRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Episodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Episodio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/model/Serie.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/principal/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/principal/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/repository/SerieRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/screenmatch/repository/SerieRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723508435566</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Começo do uso de banco de dados para inclusão de séries e buscas posteriores. Utilização de derived queries.">
+      <option name="closed" value="true" />
+      <created>1724537725927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724537725927</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -161,6 +165,7 @@
     <MESSAGE value="Acerto de persistência e variáveis de ambiente" />
     <MESSAGE value="Revert &quot;Modelando a classe série&quot;&#10;&#10;This reverts commit 3ff355c1" />
     <MESSAGE value="Acerto do ambiente" />
-    <option name="LAST_COMMIT_MESSAGE" value="Acerto do ambiente" />
+    <MESSAGE value="Começo do uso de banco de dados para inclusão de séries e buscas posteriores. Utilização de derived queries." />
+    <option name="LAST_COMMIT_MESSAGE" value="Começo do uso de banco de dados para inclusão de séries e buscas posteriores. Utilização de derived queries." />
   </component>
 </project>
